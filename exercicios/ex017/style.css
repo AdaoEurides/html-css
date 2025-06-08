@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'lovelary';
+    src: url('lovelarry.ttf') format(truetype);
+    }
+
+body {
+    background-color: rgb(205, 255, 203);
+}
+
+h1 {
+    color: rgb(4, 109, 0);
+    font-family: 'lovelary', Times, serif;
+    font-weight: normal;
+}
+
+h1#principal {
+    text-align: center;
+    background-color: rgb(4, 109, 0);
+    color: white;
+}
+
+h2 {
+    font-family: Love;
+    color: rgb(51, 77, 49);
+}
+
+.basico {
+    color: rgb(157, 157, 5);
+}
+
+.intermediario {
+    color: blue
+}
+
+.avancado {
+    color: blueviolet;
+}
